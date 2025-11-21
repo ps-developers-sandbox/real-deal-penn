@@ -1,4 +1,4 @@
-# GitHub for Developers
+# GitHub for Developers!
 
 - Class Date: Nov 20 - 21, 2025
 - Facilitator: @vvaths
